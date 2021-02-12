@@ -1,0 +1,43 @@
+{
+  "name": "nextjs-typescript-template",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "type-check": "tsc"
+  },
+  "main": "pages/index.tsx",
+  "dependencies": {
+    "@reduxjs/toolkit": "1.5.0",
+    "@types/node": "12.11.7",
+    "@types/react": "16.9.11",
+    "@types/react-dom": "16.9.3",
+    "@types/react-redux": "7.1.16",
+    "@visx/axis": "^1.4.0",
+    "@visx/group": "^1.0.0",
+    "@visx/hierarchy": "^1.0.0",
+    "@visx/react-spring": "^1.4.0",
+    "@visx/responsive": "^1.3.0",
+    "@visx/scale": "^1.4.0",
+    "@visx/shape": "^1.4.0",
+    "@visx/text": "^1.3.0",
+    "@visx/tooltip": "^1.3.0",
+    "autoprefixer": "10.2.3",
+    "d3": "^6.5.0",
+    "next": "10.0.5",
+    "postcss": "8.2.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-redux": "7.2.2",
+    "react-spring": "^8.0.27",
+    "redux": "4.0.5",
+    "redux-injectors": "1.3.0",
+    "redux-saga": "1.1.3",
+    "tailwindcss": "2.0.2",
+    "typescript": "3.6.4"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
